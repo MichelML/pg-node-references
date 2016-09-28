@@ -25,7 +25,8 @@ A centralized and comprehensive repository to master PostgreSQL integration into
 ## NPM modules
 - [pg](https://www.npmjs.com/package/pg)  
 - [pg-promise](https://www.npmjs.com/package/pg-promise)  
-- [pg-native](https://www.npmjs.com/package/pg-native)
+- [pg-native](https://www.npmjs.com/package/pg-native)  
+- [sequelize](https://www.npmjs.com/package/sequelize)
 
 
 ## Whole websites
