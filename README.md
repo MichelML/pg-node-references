@@ -23,4 +23,5 @@ A centralized and comprehensive repository to master PostgreSQL integration into
 - [http://www.postgresonline.com/downloads/special_feature/postgresql83_psql_cheatsheet.pdf](http://www.postgresonline.com/downloads/special_feature/postgresql83_psql_cheatsheet.pdf) 
 
 ## NPM modules
+- [pg](https://www.npmjs.com/package/pg)
 
