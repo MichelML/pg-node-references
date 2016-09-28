@@ -25,3 +25,5 @@ A centralized and comprehensive repository to master PostgreSQL integration into
 ## NPM modules
 - [pg](https://www.npmjs.com/package/pg)
 
+## Whole websites
+
