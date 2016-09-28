@@ -27,3 +27,4 @@ A centralized and comprehensive repository to master PostgreSQL integration into
 
 ## Whole websites
 
+## Online courses
