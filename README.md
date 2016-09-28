@@ -14,3 +14,9 @@ A centralized and comprehensive repository to master PostgreSQL integration into
 
 ## Application security
 - [https://blog.risingstack.com/node-js-security-checklist/](https://blog.risingstack.com/node-js-security-checklist/)  
+
+## PostgreSQL database server setup
+- [http://www.techrepublic.com/blog/diy-it-guy/diy-a-postgresql-database-server-setup-anyone-can-handle/](http://www.techrepublic.com/blog/diy-it-guy/diy-a-postgresql-database-server-setup-anyone-can-handle/)  
+
+## PostgreSQL cheat sheet
+- [http://www.postgresonline.com/downloads/special_feature/postgresql83_psql_cheatsheet.pdf](http://www.postgresonline.com/downloads/special_feature/postgresql83_psql_cheatsheet.pdf) 
