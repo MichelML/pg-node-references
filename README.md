@@ -1,5 +1,5 @@
 # PostgreSQL references for Node.js developpers
-A centralized and comprehensive repo to master PostgreSQL integration into Node.js applications. — Edit
+A centralized and comprehensive repository to master PostgreSQL integration into Node.js applications.
 
 ## Official postgreSQL web site
 [https://www.postgresql.org/](https://www.postgresql.org/)
