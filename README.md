@@ -4,8 +4,9 @@ A centralized and comprehensive repository to master PostgreSQL integration into
 ## Official PostgreSQL web site
 [https://www.postgresql.org/](https://www.postgresql.org/)
 
-## Heroku PostgreSQL Introduction
-[https://devcenter.heroku.com/articles/getting-started-with-nodejs#provision-a-database](https://devcenter.heroku.com/articles/getting-started-with-nodejs#provision-a-database)
+## Heroku PostgreSQL
+- [https://devcenter.heroku.com/articles/getting-started-with-nodejs#provision-a-database](https://devcenter.heroku.com/articles/getting-started-with-nodejs#provision-a-database)  
+- [https://devcenter.heroku.com/articles/heroku-postgresql](https://devcenter.heroku.com/articles/heroku-postgresql)
 
 ## Web application integration examples
 - [https://blog.risingstack.com/author/peter-czibik/](https://blog.risingstack.com/author/peter-czibik/)
