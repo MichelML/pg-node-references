@@ -11,7 +11,7 @@ A centralized and curated information source to master PostgreSQL integration in
 ## Web application integration examples
 - [https://blog.risingstack.com/author/peter-czibik/](https://blog.risingstack.com/author/peter-czibik/)
 - [http://blog.vitalytomilov.com/pg/postgresql-and-nodejs/](http://blog.vitalytomilov.com/pg/postgresql-and-nodejs/)
-- [https://blog.risingstack.com/author/peter-czibik/](https://blog.risingstack.com/author/peter-czibik/)
+- [http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#.V-1jsZMrJPU](http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#.V-1jsZMrJPU)
 
 ## Application security
 - [https://blog.risingstack.com/node-js-security-checklist/](https://blog.risingstack.com/node-js-security-checklist/)  
