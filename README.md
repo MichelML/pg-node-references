@@ -2,7 +2,7 @@
 A centralized and curated information source to master PostgreSQL integration into Node.js applications.
 
 ## Official PostgreSQL web site
-[https://www.postgresql.org/](https://www.postgresql.org/)
+- [https://www.postgresql.org/](https://www.postgresql.org/)  
 
 ## Heroku PostgreSQL
 - [https://devcenter.heroku.com/articles/getting-started-with-nodejs#provision-a-database](https://devcenter.heroku.com/articles/getting-started-with-nodejs#provision-a-database)  
