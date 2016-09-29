@@ -12,6 +12,7 @@ A centralized and curated information source to master PostgreSQL integration in
 - [https://blog.risingstack.com/author/peter-czibik/](https://blog.risingstack.com/author/peter-czibik/)
 - [http://blog.vitalytomilov.com/pg/postgresql-and-nodejs/](http://blog.vitalytomilov.com/pg/postgresql-and-nodejs/)
 - [http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#.V-1jsZMrJPU](http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#.V-1jsZMrJPU)
+- [http://nodeexamples.com/2012/09/21/connecting-to-a-postgresql-database-from-node-js-using-the-pg-module/](http://nodeexamples.com/2012/09/21/connecting-to-a-postgresql-database-from-node-js-using-the-pg-module/)  
 
 ## Application security
 - [https://blog.risingstack.com/node-js-security-checklist/](https://blog.risingstack.com/node-js-security-checklist/)  
