@@ -31,5 +31,7 @@ A centralized and curated information source to master PostgreSQL integration in
 
 
 ## Whole websites
+No resource added yet.
 
 ## Online courses
+No resource added yet.
