@@ -40,3 +40,4 @@ No resource added yet.
 ## Extra: convincing comments againt the use of MongoDB
 - [https://www.quora.com/Why-does-Quora-use-MySQL-as-the-data-store-instead-of-NoSQLs-such-as-Cassandra-MongoDB-or-CouchDB/answer/Adam-DAngelo?srid=usWM6](https://www.quora.com/Why-does-Quora-use-MySQL-as-the-data-store-instead-of-NoSQLs-such-as-Cassandra-MongoDB-or-CouchDB/answer/Adam-DAngelo?srid=usWM6)
 - [https://www.quora.com/Which-companies-have-moved-away-from-MongoDB-and-why](https://www.quora.com/Which-companies-have-moved-away-from-MongoDB-and-why)
+- [DynamoDB vs MongoDB](http://stackoverflow.com/questions/17931073/dynamodb-vs-mongodb-nosql)
